@@ -51,21 +51,41 @@ map.html
     </body>
 </html>
 
-goldentemple.html
+hospital.html
 
-<html lang="en"> 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sri lakshmi narayani Golden temple</title>
+<html>
+    <head>
+        <title>
+            HOSPITAL
+        </title>
+    </head>
+    <body bgcolor="pink">
+        <h1 align="center">
+            <font color="red"><b>VELLORE</b></font>
 
-</head>
-<body bgcolor="pink">
-    <h1 align="center" style="font-family: cursive; color: rgb(189, 3, 152);">Sri lakshmi narayani Golden temple</h1>
-    <h2 style="font-family: serif;"> Sripuram is the abode of the Goddess Lakshmi, the Goddess of Prosperity. The temple was built with pure
-         gold (1500 kg) and has intricate work done by artisans specialising in temple art using gold.
-</h2>    
-</body>
+        </h1>
+        <h3 align="center">
+            <font color="green"><b>CHRISTIAN MEDICAL COLLEGE</b></font>
+        </h3>
+        <center>
+            <img src="hospital.png" 
+        </center>
+       <hr size="3" color="teal">
+       <p align="justify" >
+        <font face="Georgia" size="5">
+            Christian Medical College, Vellore, widely known as CMC, Vellore, is a private, Christian minority community-run medical
+             college and hospital in Vellore, Tamil Nadu, India. This institute includes a network of primary, secondary and tertiary 
+             care hospitals.
+
+            The institute, constituent college is affiliated with the Tamil Nadu Dr. M.G.R. Medical University.Founded in 1900 by 
+            an American missionary, Dr Ida S. Scudder, CMC Vellore has brought many significant achievements to India, including 
+            starting the first College of Nursing in 1946, performing the first reconstructive surgery for leprosy in the world (1948),
+             performing the first successful open heart surgery in India (1961), performing the first kidney transplant in India (1971),
+              performing first bone marrow transplantation (1986) in India and performing the first successful ABO incompatible kidney 
+              transplant in India (2009).
+        </font>
+       </p>
+    </body>
 </html>
 
 vellorefort.html
