@@ -242,19 +242,18 @@ vit.html
 ```
 
 
-
 ## OUTPUT
-[text](myproject/myapp/static/map.html)
+![alt text](myproject/myapp/static/map.html.png)
 
-[text](myproject/myapp/static/goldentemple.html)
+![alt text](myproject/myapp/static/vellorefort.png)
 
-[text](myproject/myapp/static/vellorefort.html)
+![alt text](<myproject/myapp/static/golden temple.png>)
 
-[text](myproject/myapp/static/palamathitemple.html)
+![alt text](myproject/myapp/static/palamathitemple.png)
 
-[text](myproject/myapp/static/palamathihills.html)
+![alt text](myproject/myapp/static/palamathihills.png)
 
-[text](myproject/myapp/static/vit.html)
+![alt text](myproject/myapp/static/vit.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
