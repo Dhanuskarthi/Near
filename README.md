@@ -267,7 +267,7 @@ vit.html
 
 ![alt text](myproject/myapp/static/vellorefort.png)
 
-![alt text](<myproject/myapp/static/golden temple.png>)
+![alt text](myproject/myapp/static/hospital.png)
 
 ![alt text](myproject/myapp/static/palamathitemple.png)
 
